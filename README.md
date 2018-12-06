@@ -1,4 +1,4 @@
-# Python for Dummies, Part I: Getting Set Up 
+# Python for Beginners, Part I: Getting Set Up 
 
 In December 2018, I started trying to understand Python. It has been--to say the least--a messy process. Here's what I learned, hopefully laid out simply enough that you can follow even if your understanding of code is basically the same as a middle schooler who hears about drugs for the first time: You're intrigued, and scared, and that cute guy/girl you have a crush on is saying that everybody is doing it. 
 
