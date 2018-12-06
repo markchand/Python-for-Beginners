@@ -39,5 +39,5 @@ Either of these should have opened up a browser window with a list of your compu
 You did it! Go pour yourself a drink, then let me know if I should write a second post. 
 
 
-## Acknowledgements 
+## Acknowledgments 
 Thanks to [Karlijn Willems](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook), [Billie Thompson](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md), [Vivek Khetan](https://github.com/vkhetan) and [Michael Galarnyk](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x). 
