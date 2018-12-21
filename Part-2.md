@@ -8,10 +8,12 @@ Some more notes on terminology:
 
 **Big Data**.  A marketing term meaning "a whole lot of data, probably more than you can look at."
 Artificial Intelligence. Sometimes this means the [robot takeover](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), but mostly it's just a marketing term that sounds spicier than machine learning.
+
 **Machine Learning**. Sometimes this means the incredibly complex computer program that can teach computers how to beat people at Go. Most of the time it's a marketing term that sounds a lot spicier than statistics. 
+
 **Statistics**. This means "finding the mathematical relationship among things." The higher Presidential approval is during a midterm election, the more seats their party will likely win (that's called a correlation). Statistics helps understand just how many seats you should be (an estimate), give or take (a confidence interval).
 
-But there is this tricky thing that happens when you're working with lots and lots of data. You feed all that data* into a statistical model, and the computer will find correlations that don't make any sense. That?s by design: In many statistical models, we read the output to mean "We?re 95% sure there's a relationship here." But if you have 20 models that reveal a correlation between things, then chances are pretty good the computer will be wrong about one of them. That's a spurious correlation. Imagine someone finding correlations among stuff in the stock market. If you look hard enough, you can find _[something](http://tylervigen.com/spurious-correlations)_ that's correlated with whatever you're interested in.
+But there is this tricky thing that happens when you're working with lots and lots of data. You feed all that data* into a statistical model, and the computer will find correlations that don't make any sense. That?s by design: In many statistical models, we read the output to mean "We're 95% sure there's a relationship here." But if you have 20 models that reveal a correlation between things, then chances are pretty good the computer will be wrong about one of them. That's a spurious correlation. Imagine someone finding correlations among stuff in the stock market. If you look hard enough, you can find _[something](http://tylervigen.com/spurious-correlations)_ that's correlated with whatever you're interested in.
 
 This is where machine learning comes in, at least in part. There are a ton of different machine learning formulas (called algorithms), but many of them provide a firebreak against spurious correlations. They do this by training a model on one chunk of the data you have a available, then testing it with the other chunk.
 
