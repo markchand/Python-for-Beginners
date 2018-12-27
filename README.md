@@ -36,7 +36,7 @@ jupyter notebook
 
 Either of these should have opened up a browser window with a list of your computer's files. Click around until you get to the spot where you want to save the new file we're about to create. I am in a file on my computer called "Python-for-Beginners," which is inside my GitHub folder. Then click on "New" in the top right-hand corner, and "Python3" to create a new Python notebook. Give it a title, wait a second, close the browser window, and look on your computer to see if there is a new file there with the extension ("that ends with") . ipynb. 
 
-You did it! Go pour yourself a drink, and then come back for [Part II: A Little Bit About Machine Learning But Don?t Panic](http://markclaytonhand.com/2018/12/11/python-for-beginners-part-ii-a-little-bit-about-machine-learning-but-dont-panic/)
+You did it! Go pour yourself a drink, and then come back for [Part II: A Little Bit About Machine Learning But Don't Panic](http://markclaytonhand.com/2018/12/11/python-for-beginners-part-ii-a-little-bit-about-machine-learning-but-dont-panic/)
 
 
 ## Acknowledgments 
